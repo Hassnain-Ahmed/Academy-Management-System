@@ -89,7 +89,7 @@ academy-management-system/
 ---
 
 ## Images
-* [image 1](https://i.imgur.com/PFd5DrN.png)
+* [image 1][https://i.imgur.com/PFd5DrN.png]
 * [image 2](https://i.imgur.com/Lw7eZ3T.png)
 * [image 3](https://i.imgur.com/Tl60Svq.png)
 * [image 4](https://i.imgur.com/Zd7zugy.png)
