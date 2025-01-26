@@ -89,12 +89,12 @@ academy-management-system/
 ---
 
 ## Images
-* [image 1][https://i.imgur.com/PFd5DrN.png]
-* [image 2](https://i.imgur.com/Lw7eZ3T.png)
-* [image 3](https://i.imgur.com/Tl60Svq.png)
-* [image 4](https://i.imgur.com/Zd7zugy.png)
-* [image 5](https://i.imgur.com/Ld6g4GE.png)
-* [image 6](https://i.imgur.com/Xbxn16n.png)
+* ![image 1](https://i.imgur.com/PFd5DrN.png)
+* ![image 2](https://i.imgur.com/Lw7eZ3T.png)
+* ![image 3](https://i.imgur.com/Tl60Svq.png)
+* ![image 4](https://i.imgur.com/Zd7zugy.png)
+* ![image 5](https://i.imgur.com/Ld6g4GE.png)
+* ![image 6](https://i.imgur.com/Xbxn16n.png)
 
 ## Contributing  
 
