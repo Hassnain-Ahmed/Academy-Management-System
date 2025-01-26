@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Poppins";
+  }
+
+
+.noArrow input::-webkit-outer-spin-button,input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.noArrow input[type=number] {
+  -moz-appearance: textfield;
+}
+
+
+.tableDesign-1 tr{
+  border: 2px solid #ccc;
+}
+
+.tableDesign-1 tr th{
+  padding: 10px;
+}
+.tableDesign-1 tr td{
+  padding: 10px;
+}
